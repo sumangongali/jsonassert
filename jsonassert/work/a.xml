@@ -1,0 +1,21 @@
+<myroot>
+    <mychild id="123" id1="789">
+        <fruit>apple</fruit>
+        <test hello="world" brackets="angled" question="answers"/>
+        <comment>This is a comment</comment>
+    </mychild>
+    <mychild id="456">
+        <fruit>banana</fruit>
+    </mychild>
+    <mychild id="789">
+        <fruit>orange</fruit>
+        <test brackets="round" hello="greeting">
+            <number>111</number>
+        </test>
+        <dates>
+            <modified>123</modified>
+            <created>253</created>
+            <accessed>44</accessed>
+        </dates>
+    </mychild>
+</myroot>
